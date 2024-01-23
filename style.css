@@ -403,6 +403,7 @@ animation: fade-in 900ms 400ms backwards;
 
 .fa-link {
     color: white;
+    cursor: pointer;
 }
 
 /* FOOTER */
